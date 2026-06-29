@@ -1,0 +1,2 @@
+# 800e38e4142d6075-church-ministry-content-manage
+Professional church ministry browser extension — without the professional price tag.  Works directly in Chrome, Edge, and Brave — no switching apps required. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - Church Ministry Content Management And Publishing — fully configured and ready to use - O
